@@ -1,7 +1,7 @@
 # Temporal Augmented Retrieval
 
 This repository contains the code for a temporal augmented retrieval approach as well as a gradio app that is available through a hugging face space at [LINK]
-![TAR Schema](https://github.com/adrida/deltaxplainer/blob/master/assets/delta.png?raw=true) 
+![TAR Schema](https://github.com/adrida/temporal_RAG/blob/master/assets/Schema%20Temporal%20Augmented%20Retrieval.png?raw=true) 
 ## Why the need for temporal augmented retrieval
 
 The main advantage of having a temporal aspect is the ability to factor in temporal dynamics and changes of topics in the underlying data. We apply it on financial tweets in our example but the main use case would be client sales meeting notes.
