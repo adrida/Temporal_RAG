@@ -1,6 +1,6 @@
 # Temporal Augmented Retrieval
 
-This repository contains the code for a temporal augmented retrieval approach as well as a gradio app that is available through a hugging face space at [LINK]. Link to the medium article [LINK]
+This repository contains the code for a temporal augmented retrieval approach as well as a gradio app that is available through a [hugging face space here](https://huggingface.co/spaces/Adr740/Temporal-RAG-Benchmark). Link to the [medium article](https://adam-rida.medium.com/temporal-augmented-retrieval-tar-dynamic-rag-ad737506dfcc) 
 
 This work has been conducted in the context of buildspace's nights and weekends program: https://buildspace.so/
 ![TAR Schema](https://github.com/adrida/temporal_RAG/blob/master/assets/Schema%20Temporal%20Augmented%20Retrieval.png?raw=true) 
